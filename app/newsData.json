@@ -1,0 +1,72 @@
+[
+  {
+    "headline": "রাজধানীতে যানজট, অফিসগামীদের ভোগান্তি",
+    "newsArticle": "ঢাকার বিভিন্ন এলাকায় সকাল থেকেই তীব্র যানজটের কারণে অফিসগামীদের দুর্ভোগ পোহাতে হচ্ছে। মেট্রোরেলের আশপাশের এলাকায়ও একই চিত্র দেখা গেছে।",
+    "image": "/image/traffic.jpg",
+    "slug": "dhaka-traffic-jam-september",
+    "category": "সমগ্র বাংলাদেশ"
+  },
+  {
+    "headline": "জলবায়ু সম্মেলনে বাংলাদেশের প্রধানমন্ত্রী বক্তব্য রাখবেন",
+    "newsArticle": "জাতিসংঘ জলবায়ু সম্মেলনে এবার বাংলাদেশের প্রধানমন্ত্রী বিশেষ বক্তৃতা রাখবেন। বিশ্বজুড়ে জলবায়ু পরিবর্তনের ঝুঁকি মোকাবিলায় এ বক্তব্য গুরুত্বপূর্ণ ভূমিকা রাখবে বলে আশা করা হচ্ছে।",
+    "image": "/images/news/climate-summit.jpg",
+    "slug": "pm-speech-climate-summit",
+    "category": "বিশ্ব"
+  },
+  {
+    "headline": "এশিয়া কাপে দুর্দান্ত জয় বাংলাদেশের",
+    "newsArticle": "শ্রীলঙ্কার বিপক্ষে এশিয়া কাপে দুর্দান্ত জয়ের মাধ্যমে বাংলাদেশ ক্রিকেট দল সেমিফাইনালের পথে এক ধাপ এগিয়ে গেল।",
+    "image": "/images/news/bd-cricket-win.jpg",
+    "slug": "bangladesh-cricket-asia-cup-win",
+    "category": "ক্রিকেট"
+  },
+  {
+    "headline": "মেসির দুর্দান্ত গোল, জিতল ইন্টার মায়ামি",
+    "newsArticle": "মেজর লিগ সকারে ইন্টার মায়ামির হয়ে আবারো দুর্দান্ত গোল করলেন লিওনেল মেসি। তার একক পারফরম্যান্সে জয় পেল দলটি।",
+    "image": "/images/news/messi-goal.jpg",
+    "slug": "messi-goal-inter-miami",
+    "category": "খেলা"
+  },
+  {
+    "headline": "শেয়ারবাজারে উত্থান, বিনিয়োগকারীদের আশার আলো",
+    "newsArticle": "টানা কয়েকদিন পতনের পর আজ ঢাকা স্টক এক্সচেঞ্জে সূচক ঊর্ধ্বমুখী। এতে বিনিয়োগকারীদের মধ্যে স্বস্তি ফিরেছে।",
+    "image": "/images/news/stock-market.jpg",
+    "slug": "stock-market-rise-dhaka",
+    "category": "বাণিজ্য"
+  },
+  {
+    "headline": "দেশে প্রথমবার 5G ইন্টারনেট চালু",
+    "newsArticle": "বাংলাদেশে প্রথমবারের মতো 5G ইন্টারনেট চালু করা হয়েছে। এর ফলে ইন্টারনেট ব্যবহারে নতুন যুগের সূচনা হলো।",
+    "image": "/images/news/5g-launch.jpg",
+    "slug": "5g-internet-launch-bangladesh",
+    "category": "টেক"
+  },
+  {
+    "headline": "চট্টগ্রামে বৃষ্টিতে সড়ক প্লাবিত",
+    "newsArticle": "টানা বৃষ্টিপাতে চট্টগ্রামের অনেক এলাকা পানিতে তলিয়ে গেছে। এতে সাধারণ মানুষের দুর্ভোগ চরমে পৌঁছেছে।",
+    "image": "/images/news/chattogram-rain.jpg",
+    "slug": "chattogram-flooded-rain",
+    "category": "সমগ্র বাংলাদেশ"
+  },
+  {
+    "headline": "জাতিসংঘ মহাসচিবের নতুন আহ্বান",
+    "newsArticle": "জাতিসংঘ মহাসচিব বৈশ্বিক শান্তি প্রতিষ্ঠার জন্য নতুন উদ্যোগ নেয়ার আহ্বান জানিয়েছেন। তিনি বলেন, সংঘাত নয় বরং সহযোগিতার মাধ্যমেই টেকসই ভবিষ্যৎ গড়া সম্ভব।",
+    "image": "/images/news/un-secretary.jpg",
+    "slug": "un-secretary-new-call",
+    "category": "বিশ্ব"
+  },
+  {
+    "headline": "সাকিবের দুর্দান্ত অলরাউন্ড পারফরম্যান্স",
+    "newsArticle": "সাকিব আল হাসান ব্যাট হাতে হাফসেঞ্চুরি আর বল হাতে তিন উইকেট নিয়ে ম্যাচসেরা হয়েছেন।",
+    "image": "/images/news/shakib-performance.jpg",
+    "slug": "shakib-allround-performance",
+    "category": "ক্রিকেট"
+  },
+  {
+    "headline": "কৃত্রিম বুদ্ধিমত্তায় নতুন সাফল্য",
+    "newsArticle": "বাংলাদেশি গবেষকদের তৈরি একটি কৃত্রিম বুদ্ধিমত্তা ভিত্তিক সফটওয়্যার আন্তর্জাতিক স্বীকৃতি পেয়েছে।",
+    "image": "/images/news/ai-success.jpg",
+    "slug": "ai-success-bangladesh",
+    "category": "টেক"
+  }
+]
