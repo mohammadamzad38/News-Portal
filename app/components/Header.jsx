@@ -63,7 +63,7 @@ export default function Header() {
           </div>
 
           <a
-            className="relative w-[250px] h-[150px]  text-2xl font-bold rounded-full"
+            className="relative w-[150px] h-[100px]  text-2xl font-bold rounded-full"
             href="/"
           >
             <div>
